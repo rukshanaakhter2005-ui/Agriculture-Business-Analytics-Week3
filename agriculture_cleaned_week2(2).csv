@@ -1,0 +1,7 @@
+Crop,Area_Hectares,Production_Tonnes,Yield_Tonnes_per_Hectare,Revenue_Lakh_INR,Cost_Lakh_INR,Profit_Lakh_INR,Profit_Margin_%
+Rice,1200,3600,3,72,48,24,33.3333333333333
+Wheat,950,2850,3,57,39.9,17.1,30
+Maize,700,2100,3,42,31.5,10.5,25
+Cotton,500,1250,2.5,37.5,30,7.5,20
+Sugarcane,800,4800,6,96,57.6,38.4,40
+Pulses,620,930,1.5,27.9,23.25,4.65,16.6666666666667
